@@ -1,0 +1,22 @@
+.DS_Store
+.idea
+__pycache__/
+frontend
+migrations
+store
+dist
+*.py[cod]
+*$py.class
+
+**/*.zip
+**/*.rar
+*.log
+*.out
+
+# megascho_backend/megascho_backend/settings.py
+
+my_django/logging/**
+my_django/uwsgi.ini
+my_django/store/**
+
+demo/db.sqlite3
